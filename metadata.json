@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Scanner",
+  "description": "A smart Resume Score Checker powered by Gemini AI. Analyzes resumes against job descriptions to provide ATS scores and keyword insights.",
+  "requestFramePermissions": []
+}
